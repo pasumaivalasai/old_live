@@ -1,7 +1,11 @@
 body{
-	margin-top: 2%;
+	margin-top: 7%;
 	text-align: center;
 	font-family: arial;
+}
+
+.moto-desc{
+	font-size: 1.7em;
 }
 
 .social a {
@@ -33,5 +37,6 @@ body{
 }
 
 .tenkasi-marathon-icon{
-	margin-top: 5%;
+	margin-top: 8%;
+	width: 80%;
 }
