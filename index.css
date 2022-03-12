@@ -4,12 +4,6 @@ body{
 	font-family: arial;
 }
 
-.photo{
-	height: 400px;
-	width: 400px;
-	border-radius: 2%;
-}
-
 .social a {
 	font-size: 25px;
 	margin: 0 30px;
@@ -31,4 +25,13 @@ body{
 
 .instagram :hover{
 	color: #8a3ab9;
+}
+
+.pasumai-valasai{
+	color: green;
+	font-size: 300%;
+}
+
+.tenkasi-marathon-icon{
+	margin-top: 5%;
 }
